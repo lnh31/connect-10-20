@@ -2,3 +2,5 @@
 2
 log 3
 log 4
+new1
+new2
